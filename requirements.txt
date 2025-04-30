@@ -1,0 +1,5 @@
+requests
+twilio
+gTTS
+python-dotenv
+feedparser
